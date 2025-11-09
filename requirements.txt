@@ -8,3 +8,6 @@ pyjwt
 apscheduler
 httpx
 datetime
+supabase
+python-dotenv
+apscheduler
